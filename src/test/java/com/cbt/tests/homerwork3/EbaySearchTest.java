@@ -68,5 +68,6 @@ public class EbaySearchTest {
        }
 
        driver.quit();
+
     }
 }
